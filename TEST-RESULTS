@@ -14,13 +14,3 @@ The 'Calculate' method does not handle the case where the input contains divisio
 These are just some of the potential issues I found in the given code. There may be other issues as well, depanding on the specific requirements and use casses of the 'Calculator' class.
 
 
-Unit test for Calculator.java
-
-import org.testng.annotations.Test;
-
-public class Calculator_OperationsTest {
-    @Test
-    void testToString() {
-
-    }
-}
